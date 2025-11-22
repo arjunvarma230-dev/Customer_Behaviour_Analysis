@@ -1,4 +1,4 @@
-# **Customer Behavior Analysis — End-to-End Data Analytics Project**
+# **Customer Behavior Analysis - End-to-End Data Analytics Project**
 
 ## **Overview**
 This project demonstrates a complete end-to-end data analytics workflow, starting from raw data and ending with insights delivered through SQL analysis, Power BI dashboards, and a final report.  
@@ -37,7 +37,7 @@ The objective is to analyze **customer shopping behavior** and uncover insights 
 | **Category** | **Tools Used** |
 |--------------|----------------|
 | **Programming** | Python |
-| **Libraries** | pandas, numpy, matplotlib |
+| **Libraries** | pandas |
 | **Databases** | MySQL / SQL Server |
 | **Visualization** | Power BI |
 | **Presentation** | Gamma |
@@ -99,6 +99,14 @@ Performed structured analysis after loading cleaned data into MySQL / SQL Server
 
 ---
 
-## **How to Run This Project**
+## **How to Run**
 
-### **1. Clone the Repository**
+1. Install Python dependencies  
+
+2. Run the Python analysis and cleaning script  
+
+3. Open MySQL / SQL Server and run the queries inside the **sql/** folder.
+
+4. Open the Power BI dashboard file (**dashboard/Customer_Behavior_Dashboard.pbix**) in Power BI Desktop.
+
+5. View the final report and presentation in the **reports/** folder.
